@@ -1,6 +1,7 @@
-分为两部分训练，一部分是Medmnist，一部分是AMD。
-KL_PAN 是以KL散度为基础建立的目标函数
+The training process has two parts, one for Medmnist and the other for AMD
 
-HD_PAN 是以赫尔德散度为基础建立的目标函数
+KL_PAN is an objective function based on KL divergence
+
+HD_PAN is an objective function based on Held divergence
 
 
